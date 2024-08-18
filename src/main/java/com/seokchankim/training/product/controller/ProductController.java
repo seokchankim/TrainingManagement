@@ -1,7 +1,7 @@
-package com.seokchankim.training.example.controller;
+package com.seokchankim.training.product.controller;
 
-import com.seokchankim.training.example.dto.ProductDTO;
-import com.seokchankim.training.example.service.ProductService;
+import com.seokchankim.training.product.dto.ProductDTO;
+import com.seokchankim.training.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

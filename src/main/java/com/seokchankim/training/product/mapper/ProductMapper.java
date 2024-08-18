@@ -1,7 +1,7 @@
-package com.seokchankim.training.example.mapper;
+package com.seokchankim.training.product.mapper;
 
-import com.seokchankim.training.example.dto.ProductDTO;
-import com.seokchankim.training.example.entity.ProductEntity;
+import com.seokchankim.training.product.dto.ProductDTO;
+import com.seokchankim.training.product.entity.ProductEntity;
 import org.mapstruct.Mapper;
 
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.seokchankim.training.example.repository;
+package com.seokchankim.training.product.repository;
 
-import com.seokchankim.training.example.entity.ProductEntity;
+import com.seokchankim.training.product.entity.ProductEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

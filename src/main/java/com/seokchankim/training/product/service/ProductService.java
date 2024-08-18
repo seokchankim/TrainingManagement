@@ -1,8 +1,8 @@
-package com.seokchankim.training.example.service;
+package com.seokchankim.training.product.service;
 
-import com.seokchankim.training.example.dto.ProductDTO;
-import com.seokchankim.training.example.mapper.ProductMapper;
-import com.seokchankim.training.example.repository.ProductRepository;
+import com.seokchankim.training.product.dto.ProductDTO;
+import com.seokchankim.training.product.mapper.ProductMapper;
+import com.seokchankim.training.product.repository.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

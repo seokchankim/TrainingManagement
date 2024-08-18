@@ -1,4 +1,4 @@
-package com.seokchankim.training.example.dto;
+package com.seokchankim.training.product.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,9 +1,8 @@
-package com.seokchankim.training.example.entity;
+package com.seokchankim.training.product.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 @Entity
